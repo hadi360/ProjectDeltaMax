@@ -49,7 +49,18 @@ https://cdn.alarab.com/h264/160796_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/160843_720p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="1x1" tvg-logo="" group-title="الهيبة  ",24
 https://cdn.alarab.com/h264/160843_720p.mp4/index-v1-a1.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="1x1" tvg-logo="" group-title="الهيبة  ",25
+https://cdn.alarab.com/h264/160866_720p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1x1" tvg-logo="" group-title="الهيبة  ",26
+https://cdn.alarab.com/h264/160928_7200p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1x1" tvg-logo="" group-title="الهيبة  ",27
+https://cdn.alarab.com/h264/160947_720p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1x1" tvg-logo="" group-title="الهيبة  ",28
+https://cdn.alarab.com/h264/160953_720p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1x1" tvg-logo="" group-title="الهيبة  ",29
+https://cdn.alarab.com/h264/160978_720p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1x1" tvg-logo="" group-title="الهيبة  ",30
+https://cdn.alarab.com/h264/160989_720p.mp4/index-v1-a1.m3u8
 
 #EXTINF:0 group-title="Ahla Ayam",1
 https://raw.githubusercontent.com/hadi360/Movies.m3u/master/%D8%A3%D8%AD%D9%84%D9%89%20%D8%A3%D9%8A%D8%A7%D9%85/Season%201/1.strm
